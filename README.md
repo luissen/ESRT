@@ -2,7 +2,7 @@
 Efficient Transformer for Single Image
 Super-Resolution
 
-[arxiv](https://arxiv.org/abs/2108.11084)
+
 
 ## Environment
 *  pytorch >=1.0
@@ -50,14 +50,3 @@ python test.py --is_y --test_hr_folder dataset/benchmark/B100/HR/ --test_lr_fold
     <img src="figs/visual images-v2.png" width="960"> <br />
     <em> The visual comparison. </em>
 </p>
-
-## Citation
-If you find ESRT useful in your research, please cite this paper.
-```
-@article{ESRT,
-  title={Efficient transformer for single image super-resolution},
-  author={Lu, Zhisheng and Liu, Hong and Li, Juncheng and Zhang, Linlin},
-  journal={arXiv preprint arXiv:2108.11084},
-  year={2021}
-}
-```
