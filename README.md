@@ -2,6 +2,11 @@
 Efficient Transformer for Single Image
 Super-Resolution
 
+## Update
+#######22.03.17########
+
+The result images of our method are collected in fold "/result".
+
 
 
 ## Environment
